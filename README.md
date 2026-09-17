@@ -34,13 +34,9 @@
 
 <div align="center">
 
-| 🗺️ Canlı Harita & Radar | 📊 Mekan Detay & Canlı Bildirim |
-| :---: | :---: |
-| ![Harita Görünümü](screenshots/map-preview.png) | ![Detay Paneli](screenshots/detail-preview.png) |
-
-| 📱 Masa QR ile Hızlı Bildirim | ⚙️ Sürükle-Bırak Yönetim Paneli |
-| :---: | :---: |
-| ![QR Okuyucu](screenshots/qr-preview.png) | ![Admin Paneli](screenshots/admin-preview.png) |
+| 🗺️ Canlı Harita & Radar | 📊 Mekan Detay & Canlı Bildirim | 📱 Masa QR ile Hızlı Bildirim |
+| :---: | :---: | :---: |
+| ![Harita Görünümü](screenshots/map-preview.png) | ![Detay Paneli](screenshots/detail-preview.png) | ![QR Okuyucu](screenshots/qr-preview.png) |
 
 *(Ekran görüntüleri `screenshots/` dizininden yüklenmektedir)*
 
@@ -56,7 +52,6 @@
 - 🕒 **Dinamik Çalışma Saatleri:** Saate ve haftanın gününe göre otomatik güncellenen canlı `Açık` / `Kapalı` rozetleri.
 - 🌙 **Gece Kuşu Modu:** Sınav haftalarında gece 00:00'dan sonra ve 7/24 açık olan çalışma mekanlarını tek tıkla filtreleme.
 - ⭐ **Favorilerim & Yer İmleri:** Sık ziyaret edilen mekanları hızlı takip listesine kaydetme.
-- 🎛️ **Görsel Admin Paneli:** Harita üzerinde pinleri sürükleyip bırakarak mekan konumlarını güncelleme ve yeni çalışma alanı ekleme.
 - 🖨️ **Yazdırılabilir Masa QR Kartları:** Masalara yapıştırılmak üzere otomatik A4/kartvizit formatında çıktı üretme.
 
 ---
